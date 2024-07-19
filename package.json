@@ -1,0 +1,22 @@
+{
+  "name": "quora-posts-project",
+  "version": "1.0.0",
+  "description": "it's my simple first practice project to use my restful Api's to get some experience how to create a path how to update delete and u hoe user can create new post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ayazkhanx",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "method-override": "^3.0.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/method-override": "^0.0.35",
+    "@types/uuid": "^10.0.0"
+  }
+}
